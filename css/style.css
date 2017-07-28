@@ -1,0 +1,66 @@
+body {
+	color: #284e6d;
+	background-color: #32F09D;
+	font-family: Arial;
+}
+
+/* bio styles */
+.bio div {
+	width: 50%;
+}
+
+.bio img {
+	width: 100%;
+}
+
+.bioinfo div {
+	float: left;
+    width: 275px;
+    height: 175px;
+    margin-left: 50px;
+    padding: 50px;
+    display: block;
+}
+
+/* navigation styles */
+.navbar {
+	float: left;
+	width: 90%;
+}
+
+nav {
+	background-color: #FFFFFF;
+	color: white;
+	position:fixed;
+	right: 0;
+}
+
+nav a {
+	display: block;
+}
+
+/* portfolio styles */
+.works div {
+	float: left;
+	padding: 10px;
+	width: 100%;
+}
+
+.works div a {
+	display:block;
+	float: left;
+	padding: 5px;
+}
+
+
+.worksright div {
+	float: right;
+	padding: 5px;
+	width: 98%;
+}
+
+.worksright div a {
+	display: block;
+	float: right;
+	padding: 1px;
+}
